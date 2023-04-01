@@ -1,0 +1,82 @@
+* {
+  background-color: darkslategray;
+  font-family: sans-serif;
+}
+.navbar{
+  text-align: center;
+  list-style: none;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.rasm{
+  border-radius: 180px;
+}
+
+.ret{
+  text-align: center;
+}
+
+.ret:hover{
+  color: chartreuse;
+
+}
+
+.say {
+  display: inline-block;
+padding: 12px;
+font-size: 18px;
+font-weight: 600;
+text-decoration: none;
+text-transform: uppercase;
+text-align: right;
+}
+.say :hover{
+  color: chartreuse;
+
+}
+.say .active{
+  color: greenyellow;}
+
+
+
+.fott{
+  list-style: none;
+  display: inline-block;
+}
+
+.futt {
+
+padding: 12px;
+font-size: 15px;
+font-weight: 600;
+text-decoration: none;
+text-transform: uppercase;
+
+
+}
+
+.call{
+  flex-direction: column-reverse;
+  width: 17px;
+  padding: 3px;
+  background-color: green;
+}
+
+.td{
+
+border: 1px solid black;
+border-radius: 10px;
+}
+
+.gif {
+  width: 30px;
+  height: 30px;
+
+}
+ th, td {
+   padding: 8px;
+   border-style: inset;
+   font-size: 18px;
+   font-weight: 600;
+}
